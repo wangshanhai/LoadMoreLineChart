@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--
+    00%=FF（不透明）
+    5%=F2
+    10%=E5
+    15%=D8
+    20%=CC
+    25%=BF
+    30%=B2
+    35%=A5
+    40%=99
+    45%=8c
+    50%=7F
+    55%=72
+    60%=66
+    65%=59
+    70%=4c
+    75%=3F
+    80%=33
+    85%=21
+    90%=19
+    95%=0c
+    100%=00（全透明）
+    -->
+
+    <color name="colorPrimary">#292B3A</color>
+    <color name="color_666A82">#666A82</color>
+    <color name="color_00000000">#00000000</color>
+    <color name="color_59000000">#59000000</color>
+    <color name="color_dialog_bg">#50000000</color>
+    <color name="color_169EF2">#169EF2</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_ff169ef2">#ff169ef2</color>
+    <color name="color_29ffffff">#29ffffff</color>
+
+    <color name="color_1affffff">#1affffff</color>
+    <color name="color_26000000">#26000000</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_7b0004">#7b0004</color>
+    <color name="color_fe615d">#fe615d</color>
+    <color name="color_615e5c">#333333</color>
+    <color name="color_e7e7e7">#e7e7e7</color>
+    <color name="color_919090">#919090</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_ff3f31">#ff3f31</color>
+    <color name="color_59ff3f31">#59ff3f31</color>
+
+    <!-- <color name="common_bg">#f3f3f3</color>-->
+    <color name="common_bg">#f0f0f0</color>
+    <color name="color_339dff">#339dff</color>
+    <color name="color_ff3a5b">#ff3a5b</color>
+    <color name="color_ffaf31">#ffaf31</color>
+    <color name="color_fdcb54">#fdcb54</color>
+    <color name="color_b2b2b2">#9DA7C0</color>
+    <color name="color_e8e8e8">#e8e8e8</color>
+    <color name="color_e4e5e5">#e4e5e5</color>
+    <color name="color_203245">#203245</color>
+    <color name="color_5aabff">#5aabff</color>
+    <color name="color_eef6ff">#eef6ff</color>
+    <color name="color_f8d756">#f8d756</color>
+    <color name="color_f4f4f4">#f4f4f4</color>
+    <color name="color_2a2a2a">#2a2a2a</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_ababab">#ababab</color>
+    <color name="color_f9f9f9">#f9f9f9</color>
+    <color name="color_2E2E2E">#2E2E2E</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_e1e1e1">#e1e1e1</color>
+    <color name="color_F3F3F3">#F3F3F3</color>
+    <color name="color_0066FF">#0066FF</color>
+    <color name="text_c2b3b3">#c2b3b3</color>
+    <color name="text_EBF3FF">#EBF3FF</color>
+    <color name="color_E5E5E5">#E5E5E5</color>
+
+    <color name="color_0a0a0a">#0a0a0a</color>
+    <color name="color_ff4e31">#ff4e31</color>
+    <color name="color_ff484968">#484968</color>
+    <color name="color_5f5f5f">#5f5f5f</color>
+    <color name="content_background">#f2f2f2</color>
+    <color name="solar_background">#009988</color>
+
+    <!--线-->
+
+
+    <!--历史曲线9个颜色池-->
+    <color name="color_FF0C16">#FF0C16</color>
+    <color name="color_1C89DF">#1C89DF</color>
+    <color name="color_FE8C0F">#FE8C0F</color>
+    <color name="color_85D100">#85D100</color>
+    <color name="color_1AAC55">#1AAC55</color>
+    <color name="color_47DEF9">#47DEF9</color>
+    <color name="color_A04EA4">#A04EA4</color>
+    <color name="color_500E71">#500E71</color>
+    <color name="color_A75757">#A75757</color>
+
+    <color name="color_00FF0C16">#00FF0C16</color>
+    <color name="color_001C89DF">#001C89DF</color>
+    <color name="color_00FE8C0F">#00FE8C0F</color>
+    <color name="color_0085D100">#0085D100</color>
+    <color name="color_001AAC55">#001AAC55</color>
+    <color name="color_0047DEF9">#0047DEF9</color>
+    <color name="color_00A04EA4">#00A04EA4</color>
+    <color name="color_00500E71">#00500E71</color>
+    <color name="color_00A75757">#00A75757</color>
+
+
+    <!--3.0 曲线颜色池-->
+    <color name="color_FF2661">#FF2661</color>
+    <color name="color_3CC0FF">#3CC0FF</color>
+    <color name="color_F8E700">#F8E700</color>
+    <color name="color_00FFB0">#00FFB0</color>
+    <color name="color_3500FFB0">#1000FFB0</color>
+    <color name="color_FFA900">#FFA900</color>
+
+    <!--40%透明度-->
+    <color name="color_99FF2661">#99FF2661</color>
+    <color name="color_993CC0FF">#993CC0FF</color>
+    <color name="color_99F8E700">#99F8E700</color>
+    <color name="color_9900FFB0">#9900FFB0</color>
+    <color name="color_99FFA900">#99FFA900</color>
+
+    <!--100%透明度-->
+    <color name="color_00FF2661">#00FF2661</color>
+    <color name="color_003CC0FF">#003CC0FF</color>
+    <color name="color_00F8E700">#00F8E700</color>
+    <color name="color_0000FFB0">#0000FFB0</color>
+    <color name="color_00FFA900">#00FFA900</color>
+
+    <!--app主要颜色，橘色-->
+    <color name="color_ff4a00">#ff4a00</color>
+
+    <color name="color_767676">#767676</color>
+
+    <color name="color_282828">#282828</color>
+    <color name="color_fefefe">#fefefe</color>
+
+    <color name="color_141621">#141621</color>
+    <color name="color_303030">#303030</color>
+
+    <!--工作台-->
+    <color name="color_2B2D3C">#2B2D3C</color>
+    <color name="color_242634">#242634</color>
+
+    <color name="color_181922">#181922</color>
+    <color name="color_343952">#343952</color>
+
+    <color name="color_32344A">#32344A</color>
+    <color name="color_9BA1B5">#9BA1B5</color>
+
+    <color name="color_FC5231">#FC5231</color>
+
+    <!--工单-->
+    <color name="color_575a71">#575a71</color>
+    <color name="color_A8AABA">#A8AABA</color>
+    <color name="color_2f3346">#2f3346</color>
+    <color name="color_292B3A">#292B3A</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_dddddd">#dddddd</color>
+
+    <!--我的-->
+    <color name="color_EB2200">#EB2200</color>
+    <color name="color_ff383A4C">#ff383A4C</color>
+    <color name="color_383A4C">#383A4C</color>
+    <color name="color_64EB8F">#64EB8F</color>
+    <color name="color_179F5C">#179F5C</color>
+    <color name="color_129A49">#129A49</color>
+
+    <!--设备-->
+    <color name="color_FF5D37">#FF5D37</color>
+    <color name="color_FCCB7C">#FCCB7C</color>
+    <color name="color_1D1F29">#1D1F29</color>
+    <color name="color_22233C">#22233C</color>
+    <color name="color_484968">#484968</color>
+    <color name="color_38DE7A">#38DE7A</color>
+    <color name="color_3CC17F">#3CC17F</color>
+    <color name="color_00DC98">#00DC98</color>
+    <color name="color_5900DC98">#5900DC98</color>
+    <color name="color_5900c286">#5900c286</color>
+    <color name="color_00C286">#00C286</color>
+    <color name="color_EDEDED">#EDEDED</color>
+    <color name="color_2B45EAA2">#2B45EAA2</color>
+    <color name="color_45EAA2">#45EAA2</color>
+    <color name="color_14151F">#14151F</color>
+    <!--map地图设备点-->
+    <color name="color_9D011A">#9D011A</color>
+    <color name="color_019D6D">#019D6D</color>
+    <color name="color_B93B00">#B93B00</color>
+    <color name="color_D78400">#D78400</color>
+
+    <!--故障告警-->
+    <color name="color_3E4158">#3E4158</color>
+
+    <!--搜索-->
+    <color name="color_20222D">#20222D</color>
+
+    <!--阴影底色-->
+    <color name="color_18191E">#18191E</color>
+</resources>
